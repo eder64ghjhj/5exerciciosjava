@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(3, 189, 245);
+    background: radial-gradient(circle,rgb(20, 243, 210)0% rgba( 249, 100, 100) 100%);
+}
+button{
+    padding: 10px 20;
+    font-size: 16px;
+    cursor: pointer;
+}
+#informacao{
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgb(255, 61, 61);
+}
